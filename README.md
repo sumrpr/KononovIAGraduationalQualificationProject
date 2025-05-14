@@ -1,0 +1,2 @@
+# KononovIAGraduationalQualificationProject
+Репозиторий для выпускной квалификационной работы Кононова Ильи Александровича
